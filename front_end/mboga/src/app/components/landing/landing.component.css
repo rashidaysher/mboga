@@ -1,0 +1,92 @@
+.land {
+  background-image: url("../../../assets/images/banner-1.jpg");
+  background-size: cover;
+  height: 50vh;
+}
+
+.land1 {
+  background-image: url("../../../assets/images/garlic.jpg");
+  background-size: cover;
+  height: 45px;
+}
+
+.land2 {
+  background-image: url("../../../assets/images/carrotss.jpg");
+  background-size: cover;
+}
+.land3,
+.land4 {
+  background-color: #c4c4c4;
+}
+
+.bg-ora {
+  background: #c4c4c4;
+  background-image: url("../../../assets/images/basket.jpg");
+  background-size: cover;
+}
+
+.bg-hom {
+  background-color: #ff9d69;
+}
+
+.bg-hom1 {
+  background-color: #ff9d69;
+}
+
+.bg-kale {
+  background: #c4c4c4;
+  background-image: url("../../../assets/images/kale.jpg");
+  background-size: cover;
+}
+
+.bg-woman {
+  background: #c4c4c4;
+  background-image: url("../../../assets/images/woman.jpg");
+  background-size: cover;
+}
+
+.bg-mar {
+  background: #851437;
+}
+
+.bg-man {
+  background: #c4c4c4;
+  background-image: url("../../../assets/images/DSC_8666-ENTREPRENEUR-1200x630.jpg");
+  background-size: cover;
+}
+
+#button {
+  display: block;
+  max-width: 300px;
+  margin: auto;
+}
+
+#register {
+  background-color: #e5d429;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#register:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#shop {
+  background-color: #2b580c;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#shop:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

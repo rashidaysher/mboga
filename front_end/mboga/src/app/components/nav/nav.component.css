@@ -1,0 +1,10 @@
+.menu a {
+  color: black !important;
+}
+
+.menu a:hover {
+  color: green !important;
+}
+.menu {
+  background-color: black;
+}
