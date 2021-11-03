@@ -1,0 +1,23 @@
+.imageclass{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 10%;
+
+}
+
+.signupformclass{
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+    height: 20%;
+    background-color:  #22ff90;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 15px;
+
+}
